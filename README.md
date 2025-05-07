@@ -33,7 +33,7 @@ money-transfer-app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/money-transfer-app.git
+   git clone https://github.com/yourusername/money_transfer-app.git
    cd money-transfer-app
    ```
 
